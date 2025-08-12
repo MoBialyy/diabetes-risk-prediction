@@ -49,5 +49,3 @@ The dataset includes:
 - **Outlier Detection:** IQR method
 
 ---
-
-## 🗂 Project Structure
