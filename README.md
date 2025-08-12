@@ -14,7 +14,6 @@ The dataset includes:
 
 ## 🎯 Project Objectives
 1. **Data Preprocessing**
-   - Handle missing values (`fillna`)
    - Replace inconsistent entries (`replace`)
    - Encode categorical variables (`LabelEncoder`)
    - Normalize features (`MinMaxScaler`)
@@ -29,13 +28,15 @@ The dataset includes:
 
 4. **Classification Models**
    - Logistic Regression
+   - Kmeans
+   - Agglomerative 
    - Decision Tree Classifier
    - Random Forest Classifier
    - Support Vector Classifier (SVC)
    - K-Nearest Neighbors (KNN)
    - Gaussian Naive Bayes (GaussianNB)
 
-5. **Model Evaluation**
+6. **Model Evaluation**
    - Accuracy comparison for all classifiers
 
 ---
